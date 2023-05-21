@@ -1,0 +1,6 @@
+{
+    "host" : "127.0.0.1",
+    "user" : "root",
+    "password" : "your_db_password",
+    "db" : "email_users"
+}
